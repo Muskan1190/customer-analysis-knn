@@ -40,10 +40,6 @@ This project explores customer segmentation using the K-Nearest Neighbors (KNN) 
 - matplotlib
 - seaborn
 
-## 📸 Sample Output
-
-![clusters](images/customer_clusters.png)
-
 ## 📜 License
 
 This project is licensed under the MIT License.
